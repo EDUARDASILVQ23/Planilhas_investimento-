@@ -1,3 +1,6 @@
+![Image](https://github.com/user-attachments/assets/4df63509-1ef2-4ff8-8b16-1aedea196498)
+
+
 # Planilhas_investimento-
 Planilha simples de investimento criando durante o curso de Excel com inteligência artificial da DiO
 
